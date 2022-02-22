@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBatteryApiTest</string>
+    <string name="check_charge">Check Charging</string>
+</resources>
